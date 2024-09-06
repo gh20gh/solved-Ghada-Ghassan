@@ -11,6 +11,6 @@
   "author": "Ghada Ghassan",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.0.0"
   }
 }
